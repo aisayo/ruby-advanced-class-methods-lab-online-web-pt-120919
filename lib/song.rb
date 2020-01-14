@@ -5,7 +5,7 @@ class Song
   #method name create
   #class method 
   
-  def self.create
+  def self.create #class method
     #instantiate a Song
       new_obj = self.new
       
