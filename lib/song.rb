@@ -13,6 +13,7 @@ class Song
       @@all << new_obj
     
     #return the song 
+    new_obj
   end 
 
 
