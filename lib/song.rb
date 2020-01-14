@@ -1,5 +1,7 @@
 class Song
   
+  attr_accessor :name
+  
   @@all = []
   
   #method name create
