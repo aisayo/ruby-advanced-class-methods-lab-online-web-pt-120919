@@ -10,7 +10,7 @@ class Song
       new_obj = self.new
       
     #save the song 
-      @@all << self 
+      @@all << new_obj
     
     #return the song 
   end 
