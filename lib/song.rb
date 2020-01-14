@@ -19,6 +19,7 @@ class Song
     #return the song 
     new_obj
   end 
-
-
+  
+  def self.new_by_name
+  @new_by_name
 end
