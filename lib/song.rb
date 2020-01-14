@@ -5,7 +5,7 @@ class Song
   
   def self.create
     #instantiate a Song
-      song = Song.new
+      song = self.new
     #save the song 
     #return the song 
   end 
